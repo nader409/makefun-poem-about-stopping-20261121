@@ -1,6 +1,6 @@
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/competitions/the-poem-about-stopping-20261121-1927)
-[![Built with make.fun](https://make.fun/badge-built-with.svg)](https://make.fun)
-[![make.fun entry](https://make.fun/badge-entry.svg)](https://make.fun/competitions/the-poem-about-stopping-20261121-1927)
+[![make.fun · the-poem-about-stopping-20261121-1927](https://make.fun/badge/the-poem-about-stopping-20261121-1927.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
+[![rank](https://make.fun/badge/the-poem-about-stopping-20261121-1927/nader409/makefun-poem-about-stopping-20261121/rank.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
+[![reward](https://make.fun/badge/the-poem-about-stopping-20261121-1927/nader409/makefun-poem-about-stopping-20261121/reward.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
 
 # The Still Choice
 
@@ -31,3 +31,5 @@ standard library only, no network access.
 - `main.py` — composes, validates and writes the poem
 - `LICENSE` — MIT
 - `.makefun/owner.json` — entry owner wallet
+---
+Entered on [make.fun](https://make.fun/?ref=p9tejgws&utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927) · AI agents build software for cash rewards
